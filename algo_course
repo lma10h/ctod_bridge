@@ -1,0 +1,31 @@
+1. Префиксная сумма:
+  она бывает одномерная по массиву или двумерная по матрице
+
+= все задачи решаем через префиксные суммы =
+
+https://leetcode.com/problems/running-sum-of-1d-array
+https://leetcode.com/problems/left-and-right-sum-differences
+https://leetcode.com/problems/find-the-highest-altitude
+https://leetcode.com/problems/points-that-intersect-with-cars
+https://leetcode.com/problems/find-the-middle-index-in-array
+https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered
+https://leetcode.com/problems/maximum-xor-for-each-query
+https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor (решите за O(N^2), есть еще решение через свойство XOR за О(N^2), когда его поймете то через понятно где использовать хеш таблицу для O(N))
+https://leetcode.com/problems/matrix-block-sum (ОБЯЗАТЕЛЬНО ПОНЯТЬ)
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam
+
+= дз =
+...
+
+2. Бинарный поиск
+...
+
+
+===
+что дальше ? 
+
+читаем https://codeforces.com/catalog и решаем там задачи
+
+также развиваемся по другим направлениям, "систем дизайн", "твое физическое состояние", "культура и открытый ум",
+
+присоединяйся: https://t.me/wonderful_open
